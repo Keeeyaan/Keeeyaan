@@ -9,7 +9,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Keeeyaan/Keeeyaan/blob/output/snake.svg" alt="Snake animation" />
+<img width="100%" href="https://raw.githubusercontent.com/Keeeyaan/Keeeyaan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 

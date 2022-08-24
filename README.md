@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=keeeyaan&show_icons=true&locale=en" alt="keeeyaan" /></p>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=keeeyaan&show_icons=true&locale=en" alt="keeeyaan" />
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently working on a **Project**
 - 📫 How to reach me **keanjieden@gmail.com**
 
 This is the place where I opensource stuff and break things :rofl:

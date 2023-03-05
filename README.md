@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">This is the place where I opensource stuff and break things :rofl:<br><br>- 🔭 I’m currently working on something cool :wink:<br>- 🌱 I’m currently playing NextJS, Socket.io <br>- 💬 Ask me about anything related to Javascript / Typescript / Node.js<br>- 📫 How to reach me: keanjieden@gmail.com</p>
+<p align="left">- 🌱 I’m currently playing NextJS, Typescript, Socket.io, Flutter <br>- 📫 How to reach me: keanjieden@gmail.com</p>
 
 ###
 

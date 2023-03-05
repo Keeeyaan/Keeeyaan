@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning NextJS, Typescript, Socket.io, Flutter <br>- 📫 How to reach me: keanjieden@gmail.com</p>
+<p align="left">- 🌱 I’m currently learning NextJS, Typescript, Socket.io, Flutter <br><br>- 📫 How to reach me: keanjieden@gmail.com</p>
 
 ###
 

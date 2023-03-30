@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=keeeyaan&show_icons=true&hide=contribs,prs&theme=tokyonight" height="150" alt="stats graph"  />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=keeeyaan&show_icons=true&hide=contribs,prs&theme=cobalt" height="150" alt="stats graph"  />
 
 ###
 

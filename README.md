@@ -7,7 +7,7 @@
 
 - 👀 I'm interested in Web Development
 - 🔨 I'm currently creating **Personal Projects**
-- 🌱 I’m currently learning NextJS, Typescript, React Native
+- 🌱 I’m currently learning NextJS, Typescript, Flutter
 - 📫 How to reach me: keanjieden@gmail.com
 
 

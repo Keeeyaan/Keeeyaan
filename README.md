@@ -10,12 +10,12 @@
 - 🌱 I’m currently learning NextJS, Typescript, Flutter
 - 📫 How to reach me: keanjieden@gmail.com
 
+###
+
+<br/>
 
 ###
 
-<img width="100%" src="https://github.com/Keeeyaan/keeeyaan/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,py,tensorflow,java,nextjs,react,redux,expressjs,flask,mongodb,firebase,mysql,tailwind,materialui,git,figma" />
